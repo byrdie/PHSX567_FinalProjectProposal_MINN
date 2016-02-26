@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{moses}
+Charles C.~Kankelborg J.~Lewis~Fox and Roger~J. Thomas.
+\newblock A transition region explosive event observed in {He II} with the
+  moses sounding rocket.
+\newblock {\em The Astrophysical Journal}, 719:1132--1143, August 2010.
+\newblock
+  \url{http://solar.physics.montana.edu/MOSES/papers/2010/FoxKankelborgThomas2010.pdf}.
+
+\bibitem{smart}
+T.~{Rust}, L.~{Fox}, C.~{Kankelborg}, H.~{Courrier}, and J.~{Plovanic}.
+\newblock {MOSES Inversions using Multiresolution SMART}.
+\newblock 224:414.06, June 2014.
+
+\bibitem{inversion}
+J.~L. {Fox}, C.~C. {Kankelborg}, and T.~R. {Metcalf}.
+\newblock {Data inversion for the Multi-Order Solar Extreme-Ultraviolet
+  Spectrograph}.
+\newblock 5157:124--132, November 2003.
+
+\bibitem{tom}
+T.~{Rust} and C~{Kankelborg}.
+\newblock Imaging spectroscopy with moses sounding rocket data.
+\newblock {\em SPD}, 2015.
+
+\bibitem{imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In F.~Pereira, C.~J.~C. Burges, L.~Bottou, and K.~Q. Weinberger,
+  editors, {\em Advances in Neural Information Processing Systems 25}, pages
+  1097--1105. Curran Associates, Inc., 2012.
+\newblock
+  \url{http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf}.
+
+\end{thebibliography}

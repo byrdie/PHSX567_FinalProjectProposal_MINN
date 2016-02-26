@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PHSX567_final_proposal.aux
+The style file: unsrt.bst
+Database file #1: sources.bib
+Name 1 in "J. Lewis Fox, Charles C. Kankelborg, and Roger J. Thomas" has a comma at the end for entry moses
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in smart
+Warning--empty journal in inversion
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            484 strings with 4849 characters,
+and the built_in function-call counts, 1414 in all, are:
+= -- 124
+> -- 69
+< -- 1
++ -- 24
+- -- 19
+* -- 102
+:= -- 228
+add.period$ -- 18
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 59
+empty$ -- 127
+format.name$ -- 19
+if$ -- 314
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 30
+num.names$ -- 7
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 31
+stack$ -- 0
+substring$ -- 106
+swap$ -- 14
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 12
+width$ -- 6
+write$ -- 59
+(There was 1 error message)
