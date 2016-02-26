@@ -33,4 +33,12 @@ Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
 \newblock
   \url{http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf}.
 
+\bibitem{caffe}
+Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross
+  Girshick, Sergio Guadarrama, and Trevor Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock In {\em Proceedings of the 22Nd ACM International Conference on
+  Multimedia}, MM '14, pages 675--678, New York, NY, USA, 2014. ACM.
+\newblock \url{http://doi.acm.org/10.1145/2647868.2654889}.
+
 \end{thebibliography}
