@@ -7,45 +7,45 @@ Name 1 in "J. Lewis Fox, Charles C. Kankelborg, and Roger J. Thomas" has a comma
 while executing---line 944 of file unsrt.bst
 Warning--empty journal in smart
 Warning--empty journal in inversion
-You've used 6 entries,
+You've used 8 entries,
             1791 wiz_defined-function locations,
-            493 strings with 5214 characters,
-and the built_in function-call counts, 1876 in all, are:
-= -- 169
-> -- 95
+            503 strings with 5653 characters,
+and the built_in function-call counts, 2095 in all, are:
+= -- 188
+> -- 97
 < -- 2
-+ -- 33
++ -- 35
 - -- 27
-* -- 135
-:= -- 296
-add.period$ -- 23
-call.type$ -- 6
-change.case$ -- 6
+* -- 141
+:= -- 317
+add.period$ -- 28
+call.type$ -- 8
+change.case$ -- 8
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 80
-empty$ -- 163
+cite$ -- 10
+duplicate$ -- 90
+empty$ -- 199
 format.name$ -- 27
-if$ -- 423
+if$ -- 480
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 8
 missing$ -- 6
-newline$ -- 36
+newline$ -- 45
 num.names$ -- 8
-pop$ -- 16
+pop$ -- 31
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 46
+skip$ -- 53
 stack$ -- 0
 substring$ -- 138
-swap$ -- 24
+swap$ -- 26
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
 while$ -- 16
-width$ -- 7
-write$ -- 75
+width$ -- 9
+write$ -- 93
 (There was 1 error message)
